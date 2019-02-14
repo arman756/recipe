@@ -1,0 +1,27 @@
+{
+  "name": "recipe",
+  "version": "1.0.0",
+  "description": "a website for searching food recipes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arman756/recipe.git"
+  },
+  "keywords": [
+    "recipe",
+    "food",
+    "arman-recipe",
+    "arman",
+    "armanfeili",
+    "foodrecipe"
+  ],
+  "author": "arman feili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arman756/recipe/issues"
+  },
+  "homepage": "https://github.com/arman756/recipe#readme"
+}
